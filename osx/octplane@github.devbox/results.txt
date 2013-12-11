@@ -1,0 +1,5 @@
+MacPro, 2x2.66 quad-core with 19GB of memory.
+
+- Completed, estimated speed: 7698 event/s processed
+- Completed, estimated speed: 7706 event/s processed
+- Completed, estimated speed: 7417 event/s processed
