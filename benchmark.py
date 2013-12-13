@@ -36,6 +36,7 @@ while(True):
   if c == 0:
     end_time = time()
     break
+  sleep(0.05)
 
 
 print( "Completed, estimated speed: %d event/s processed" % int((COUNT/(end_time - start_time))) )
