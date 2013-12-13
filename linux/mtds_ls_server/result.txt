@@ -5,3 +5,4 @@ Uptime: 16:46:09 up 277 days,  5:26,  7 users,  load average: 1,62, 0,91, 0,39
 - 12516 events/s processed (100000 events)
 - 17073 events/s processed (500K events)
 - 17791 events/s processed (800K events)
+- 18281 events/s processed (1M events)
