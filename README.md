@@ -13,3 +13,9 @@ Protocol
 - See result in benchmark.rb output
 - Create a meaningful folder with information about your JVM and system specs and the benchmark results
 - PR to update and add you results
+
+Contributors
+============
+
+- Pierre Baillet (@octplane), original author
+- Carlos (nzlosh on Github), port of script to Python
