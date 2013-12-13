@@ -1,5 +1,6 @@
-MacPro, 2x2.66 quad-core with 19GB of memory.
+Server: MacPro, 2x2.66 quad-core with 19GB of memory.
+Distro: OSX 10.9
+Uptime: 17:03  up 4 days,  7:54, 12 users, load averages: 2,28 2,45 2,43
 
-- Completed, estimated speed: 7698 event/s processed
-- Completed, estimated speed: 7706 event/s processed
-- Completed, estimated speed: 7417 event/s processed
+- 7698 events/s processed (100K events)
+- 11309 events/s processed (1M events)

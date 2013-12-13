@@ -39,4 +39,4 @@ while(True):
   sleep(0.05)
 
 
-print( "Completed, estimated speed: %d event/s processed" % int((COUNT/(end_time - start_time))) )
+print( "Completed, estimated speed: %d events/s processed" % int((COUNT/(end_time - start_time))) )

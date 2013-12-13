@@ -41,4 +41,4 @@ while(true) do
   sleep(0.05)
 end
 
-puts "Completed, estimated speed: #{(COUNT/(end_time - start_time)).to_i} event/s processed"
+puts "Completed, estimated speed: #{(COUNT/(end_time - start_time)).to_i} events/s processed"
