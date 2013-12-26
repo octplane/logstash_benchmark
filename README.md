@@ -1,8 +1,13 @@
 logstash_benchmark
 ==================
 
-Simple Logstash Benchmarking for testing purposes
+Simple Logstash Benchmarking for testing purposes. This is a benchmark that was setup to test redis speed input and diagnose an issue in the Time Parsing facility of Logtash.
+The Time Parsing speed improvements are integrated in logstash since: https://github.com/logstash/logstash/pull/894/files
 
+Also, some variables to tweak on the redis input and the Elasticsearch output.
+
+- `batch_count`: should contain a large enough value to speed up redis reading
+- in the ES output, `flush_size` controls the size of the bulk insert.
 
 Protocol
 ========
